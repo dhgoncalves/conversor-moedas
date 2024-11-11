@@ -1,0 +1,18 @@
+[
+  {
+    "moedaOrigem": "BRL",
+    "moedaDestino": "EUR",
+    "valorOrigem": 5000.0,
+    "valorConvertido": 812.5,
+    "taxaDeCambio": 0.1625,
+    "dataHora": "11-11-2024 10:36:02"
+  },
+  {
+    "moedaOrigem": "USD",
+    "moedaDestino": "BRL",
+    "valorOrigem": 500.0,
+    "valorConvertido": 2870.5,
+    "taxaDeCambio": 5.741,
+    "dataHora": "11-11-2024 10:36:28"
+  }
+]
